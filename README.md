@@ -50,4 +50,6 @@ Para visualizar o agente resolvendo o labirinto, deve-se colocar apenas um epis�
 
 É possível, também, executar apenas um episódio com uma iteração por vez para ver o processo passo a passo. Nesse modo de execução, é habilitada uma interface de setas que mostram as recompensas que o agente enxerga para casa ação de cada estado em que ele se encontra.
 
+Também é possível usar as teclas WASD para explorar o labirinto diretamente.
+
 Antes de utilizar outro modo de execução, é importante reiniciar a simulação para o estado inicial.
