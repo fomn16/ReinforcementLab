@@ -22,7 +22,7 @@ O sistema desenvolvido está disponível no endereço https://arturhugo.github.i
 
 O código está estruturado na seguinte estrutura de pastas:
 
-- /Game: scripts de funcionamento do simulador (geração do labirinto, movimentação do agente)
+- /Simulation: scripts de funcionamento do simulador (geração do labirinto, movimentação do agente)
 - /GUI: scripts para menu para usuário ajustar e testar parâmetros da simulação
 - /Learning: scripts dos agentes de aprendizado por reforço
 
